@@ -1,0 +1,17 @@
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\CommunityPlugin.csproj.AssemblyReference.cache
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\CommunityPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\CommunityPlugin.AssemblyInfoInputs.cache
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\CommunityPlugin.AssemblyInfo.cs
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\CommunityPlugin.csproj.CoreCompileInputs.cache
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\bin\Debug\net6.0\HttpServer.dll
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\bin\Debug\net6.0\CommunityPlugin.deps.json
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\bin\Debug\net6.0\CommunityPlugin.dll
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\bin\Debug\net6.0\CommunityPlugin.pdb
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\CommunityPlugin.dll
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\refint\CommunityPlugin.dll
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\CommunityPlugin.pdb
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\ref\CommunityPlugin.dll
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\bin\Debug\net6.0\EssentialsPlus.dll
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\bin\Debug\net6.0\EssentialsPlus.pdb
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\bin\Debug\net6.0\EssentialsPlus.dll.config
+E:\Plugin Source Code\Private Plugins\Challenge Plugins\CommunityPlugin\obj\Debug\net6.0\CommunityPlugin.csproj.CopyComplete
